@@ -1,11 +1,13 @@
-<<<<<<< HEAD
-# integrantes
-- Alessa
-- Lucas A
-- Matheus
-- Pedro
-- Rafael
-- Thalita
-=======
-# TCC0
->>>>>>> 7e885324b1191755fffb7f3ecf46baa6d9433211
+# Andermaq - Projeto organizado
+
+Estrutura:
+
+- `index.html` - página inicial
+- `pages/` - páginas principais
+- `pages/produtos/` - detalhes de produtos
+- `css/` - estilos
+- `img/geral/` - imagens gerais do site
+- `img/produtos/` - imagens dos produtos
+- `video/` - vídeos
+
+Os links internos foram atualizados para funcionar com essa organização.
